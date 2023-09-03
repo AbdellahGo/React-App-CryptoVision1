@@ -10,7 +10,7 @@ const SideBar = ({ btnControl ,sidebar, handelClick }) => {
         </button>
         <Link to="/" className="d-flex align-items-center text-decoration-none">
           <img src={logo} />
-          <h1 className="fs-4 px-2">CryptoTrader</h1>
+          <h1 className="fs-4 px-2">CryptoVision1</h1>
         </Link>
       </div>
       <ul class="sidebar-links navbar-nav gap-2 mt-4 fw-medium text-light">
